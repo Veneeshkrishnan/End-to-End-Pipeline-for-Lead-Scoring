@@ -1,0 +1,1030 @@
+[2022-11-02 16:04:13,226] {processor.py:153} INFO - Started process (PID=1275) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:04:13,227] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:04:13,228] {logging_mixin.py:115} INFO - [2022-11-02 16:04:13,228] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:04:13,552] {logging_mixin.py:115} INFO - [2022-11-02 16:04:13,552] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:04:13,552] {logging_mixin.py:115} INFO - [2022-11-02 16:04:13,552] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:04:15,113] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:04:15,157] {logging_mixin.py:115} INFO - [2022-11-02 16:04:15,157] {manager.py:508} INFO - Created Permission View: can delete on DAG:Lead_scoring_training_pipeline
+[2022-11-02 16:04:15,165] {logging_mixin.py:115} INFO - [2022-11-02 16:04:15,165] {manager.py:508} INFO - Created Permission View: can edit on DAG:Lead_scoring_training_pipeline
+[2022-11-02 16:04:15,171] {logging_mixin.py:115} INFO - [2022-11-02 16:04:15,171] {manager.py:508} INFO - Created Permission View: can read on DAG:Lead_scoring_training_pipeline
+[2022-11-02 16:04:15,171] {logging_mixin.py:115} INFO - [2022-11-02 16:04:15,171] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:04:15,178] {logging_mixin.py:115} INFO - [2022-11-02 16:04:15,178] {dag.py:2439} INFO - Creating ORM DAG for Lead_scoring_training_pipeline
+[2022-11-02 16:04:15,190] {logging_mixin.py:115} INFO - [2022-11-02 16:04:15,190] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:04:15,207] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.987 seconds
+[2022-11-02 16:05:12,508] {processor.py:153} INFO - Started process (PID=1429) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:05:12,509] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:05:12,509] {logging_mixin.py:115} INFO - [2022-11-02 16:05:12,509] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:05:12,811] {logging_mixin.py:115} INFO - [2022-11-02 16:05:12,811] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:05:12,811] {logging_mixin.py:115} INFO - [2022-11-02 16:05:12,811] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:05:14,401] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:05:14,409] {logging_mixin.py:115} INFO - [2022-11-02 16:05:14,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:05:14,422] {logging_mixin.py:115} INFO - [2022-11-02 16:05:14,422] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:05:14,436] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.933 seconds
+[2022-11-02 16:06:08,800] {processor.py:153} INFO - Started process (PID=1535) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:06:08,800] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:06:08,801] {logging_mixin.py:115} INFO - [2022-11-02 16:06:08,801] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:06:09,097] {logging_mixin.py:115} INFO - [2022-11-02 16:06:09,097] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:06:09,097] {logging_mixin.py:115} INFO - [2022-11-02 16:06:09,097] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:06:10,722] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:06:10,752] {logging_mixin.py:115} INFO - [2022-11-02 16:06:10,751] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:06:10,765] {logging_mixin.py:115} INFO - [2022-11-02 16:06:10,765] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:06:10,781] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.987 seconds
+[2022-11-02 16:07:01,009] {processor.py:153} INFO - Started process (PID=1654) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:07:01,010] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:07:01,011] {logging_mixin.py:115} INFO - [2022-11-02 16:07:01,011] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:07:01,301] {logging_mixin.py:115} INFO - [2022-11-02 16:07:01,301] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:07:01,301] {logging_mixin.py:115} INFO - [2022-11-02 16:07:01,301] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:07:02,868] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:07:02,876] {logging_mixin.py:115} INFO - [2022-11-02 16:07:02,876] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:07:02,890] {logging_mixin.py:115} INFO - [2022-11-02 16:07:02,890] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:07:02,905] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.902 seconds
+[2022-11-02 16:07:51,214] {processor.py:153} INFO - Started process (PID=1919) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:07:51,215] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:07:51,215] {logging_mixin.py:115} INFO - [2022-11-02 16:07:51,215] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:07:51,500] {logging_mixin.py:115} INFO - [2022-11-02 16:07:51,500] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:07:51,501] {logging_mixin.py:115} INFO - [2022-11-02 16:07:51,501] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:07:53,067] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:07:53,097] {logging_mixin.py:115} INFO - [2022-11-02 16:07:53,096] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:07:53,110] {logging_mixin.py:115} INFO - [2022-11-02 16:07:53,110] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:07:53,126] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.918 seconds
+[2022-11-02 16:08:45,347] {processor.py:153} INFO - Started process (PID=2102) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:08:45,348] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:08:45,349] {logging_mixin.py:115} INFO - [2022-11-02 16:08:45,349] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:08:45,626] {logging_mixin.py:115} INFO - [2022-11-02 16:08:45,626] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:08:45,626] {logging_mixin.py:115} INFO - [2022-11-02 16:08:45,626] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:08:47,174] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:08:47,183] {logging_mixin.py:115} INFO - [2022-11-02 16:08:47,183] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:08:47,196] {logging_mixin.py:115} INFO - [2022-11-02 16:08:47,196] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:08:47,204] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.862 seconds
+[2022-11-02 16:09:33,354] {processor.py:153} INFO - Started process (PID=2220) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:09:33,355] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:09:33,356] {logging_mixin.py:115} INFO - [2022-11-02 16:09:33,355] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:09:33,594] {logging_mixin.py:115} INFO - [2022-11-02 16:09:33,594] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:09:33,594] {logging_mixin.py:115} INFO - [2022-11-02 16:09:33,594] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:09:35,218] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:09:35,248] {logging_mixin.py:115} INFO - [2022-11-02 16:09:35,247] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:09:35,261] {logging_mixin.py:115} INFO - [2022-11-02 16:09:35,261] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:09:35,277] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.927 seconds
+[2022-11-02 16:10:16,245] {processor.py:153} INFO - Started process (PID=2319) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:10:16,245] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:10:16,246] {logging_mixin.py:115} INFO - [2022-11-02 16:10:16,246] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:10:16,515] {logging_mixin.py:115} INFO - [2022-11-02 16:10:16,515] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:10:16,515] {logging_mixin.py:115} INFO - [2022-11-02 16:10:16,515] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:10:18,147] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:10:18,156] {logging_mixin.py:115} INFO - [2022-11-02 16:10:18,156] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:10:18,169] {logging_mixin.py:115} INFO - [2022-11-02 16:10:18,169] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:10:18,184] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.944 seconds
+[2022-11-02 16:10:55,946] {processor.py:153} INFO - Started process (PID=2430) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:10:55,947] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:10:55,947] {logging_mixin.py:115} INFO - [2022-11-02 16:10:55,947] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:10:56,140] {logging_mixin.py:115} INFO - [2022-11-02 16:10:56,140] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:10:56,140] {logging_mixin.py:115} INFO - [2022-11-02 16:10:56,140] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:10:57,780] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:10:57,810] {logging_mixin.py:115} INFO - [2022-11-02 16:10:57,810] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:10:57,824] {logging_mixin.py:115} INFO - [2022-11-02 16:10:57,824] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:10:57,839] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.896 seconds
+[2022-11-02 16:11:36,049] {processor.py:153} INFO - Started process (PID=2586) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:11:36,064] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:11:36,064] {logging_mixin.py:115} INFO - [2022-11-02 16:11:36,064] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:11:36,289] {logging_mixin.py:115} INFO - [2022-11-02 16:11:36,289] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:11:36,290] {logging_mixin.py:115} INFO - [2022-11-02 16:11:36,290] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:11:38,058] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:11:38,068] {logging_mixin.py:115} INFO - [2022-11-02 16:11:38,068] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:11:38,083] {logging_mixin.py:115} INFO - [2022-11-02 16:11:38,083] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:11:38,111] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.064 seconds
+[2022-11-02 16:12:19,725] {processor.py:153} INFO - Started process (PID=2822) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:12:19,738] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:12:19,738] {logging_mixin.py:115} INFO - [2022-11-02 16:12:19,738] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:12:19,983] {logging_mixin.py:115} INFO - [2022-11-02 16:12:19,983] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:12:19,984] {logging_mixin.py:115} INFO - [2022-11-02 16:12:19,984] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:12:22,815] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:12:22,872] {logging_mixin.py:115} INFO - [2022-11-02 16:12:22,872] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:12:22,887] {logging_mixin.py:115} INFO - [2022-11-02 16:12:22,887] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:12:22,910] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 3.190 seconds
+[2022-11-02 16:13:07,694] {processor.py:153} INFO - Started process (PID=2968) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:13:07,695] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:13:07,695] {logging_mixin.py:115} INFO - [2022-11-02 16:13:07,695] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:13:07,881] {logging_mixin.py:115} INFO - [2022-11-02 16:13:07,881] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:13:07,881] {logging_mixin.py:115} INFO - [2022-11-02 16:13:07,881] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:13:09,453] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:13:09,462] {logging_mixin.py:115} INFO - [2022-11-02 16:13:09,462] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:13:09,474] {logging_mixin.py:115} INFO - [2022-11-02 16:13:09,474] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:13:09,481] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.794 seconds
+[2022-11-02 16:13:49,072] {processor.py:153} INFO - Started process (PID=3066) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:13:49,073] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:13:49,073] {logging_mixin.py:115} INFO - [2022-11-02 16:13:49,073] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:13:49,294] {logging_mixin.py:115} INFO - [2022-11-02 16:13:49,294] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:13:49,294] {logging_mixin.py:115} INFO - [2022-11-02 16:13:49,294] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:13:50,875] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:13:50,905] {logging_mixin.py:115} INFO - [2022-11-02 16:13:50,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:13:50,918] {logging_mixin.py:115} INFO - [2022-11-02 16:13:50,918] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:13:50,934] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.868 seconds
+[2022-11-02 16:14:30,592] {processor.py:153} INFO - Started process (PID=3164) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:14:30,593] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:14:30,593] {logging_mixin.py:115} INFO - [2022-11-02 16:14:30,593] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:14:30,777] {logging_mixin.py:115} INFO - [2022-11-02 16:14:30,776] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:14:30,777] {logging_mixin.py:115} INFO - [2022-11-02 16:14:30,777] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:14:32,387] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:14:32,395] {logging_mixin.py:115} INFO - [2022-11-02 16:14:32,395] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:14:32,408] {logging_mixin.py:115} INFO - [2022-11-02 16:14:32,408] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:14:32,423] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.836 seconds
+[2022-11-02 16:15:16,229] {processor.py:153} INFO - Started process (PID=3296) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:15:16,248] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:15:16,248] {logging_mixin.py:115} INFO - [2022-11-02 16:15:16,248] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:15:16,649] {logging_mixin.py:115} INFO - [2022-11-02 16:15:16,649] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:15:16,649] {logging_mixin.py:115} INFO - [2022-11-02 16:15:16,649] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:15:18,710] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:15:18,744] {logging_mixin.py:115} INFO - [2022-11-02 16:15:18,744] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:15:18,760] {logging_mixin.py:115} INFO - [2022-11-02 16:15:18,760] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:15:18,784] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.558 seconds
+[2022-11-02 16:16:02,632] {processor.py:153} INFO - Started process (PID=3535) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:16:02,633] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:16:02,633] {logging_mixin.py:115} INFO - [2022-11-02 16:16:02,633] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:16:02,826] {logging_mixin.py:115} INFO - [2022-11-02 16:16:02,826] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:16:02,826] {logging_mixin.py:115} INFO - [2022-11-02 16:16:02,826] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:16:04,529] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:16:04,537] {logging_mixin.py:115} INFO - [2022-11-02 16:16:04,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:16:04,551] {logging_mixin.py:115} INFO - [2022-11-02 16:16:04,551] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:16:04,565] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.938 seconds
+[2022-11-02 16:16:42,532] {processor.py:153} INFO - Started process (PID=3686) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:16:42,533] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:16:42,534] {logging_mixin.py:115} INFO - [2022-11-02 16:16:42,534] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:16:42,727] {logging_mixin.py:115} INFO - [2022-11-02 16:16:42,727] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:16:42,727] {logging_mixin.py:115} INFO - [2022-11-02 16:16:42,727] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:16:44,338] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:16:44,368] {logging_mixin.py:115} INFO - [2022-11-02 16:16:44,368] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:16:44,382] {logging_mixin.py:115} INFO - [2022-11-02 16:16:44,382] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:16:44,398] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.870 seconds
+[2022-11-02 16:17:22,553] {processor.py:153} INFO - Started process (PID=3811) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:17:22,553] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:17:22,554] {logging_mixin.py:115} INFO - [2022-11-02 16:17:22,554] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:17:22,787] {logging_mixin.py:115} INFO - [2022-11-02 16:17:22,787] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:17:22,787] {logging_mixin.py:115} INFO - [2022-11-02 16:17:22,787] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:17:24,475] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:17:24,484] {logging_mixin.py:115} INFO - [2022-11-02 16:17:24,484] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:17:24,498] {logging_mixin.py:115} INFO - [2022-11-02 16:17:24,497] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:17:24,513] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.965 seconds
+[2022-11-02 16:18:03,045] {processor.py:153} INFO - Started process (PID=3919) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:18:03,046] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:18:03,047] {logging_mixin.py:115} INFO - [2022-11-02 16:18:03,047] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:18:03,247] {logging_mixin.py:115} INFO - [2022-11-02 16:18:03,247] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:18:03,248] {logging_mixin.py:115} INFO - [2022-11-02 16:18:03,248] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:18:05,083] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:18:05,114] {logging_mixin.py:115} INFO - [2022-11-02 16:18:05,114] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:18:05,127] {logging_mixin.py:115} INFO - [2022-11-02 16:18:05,127] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:18:05,139] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.099 seconds
+[2022-11-02 16:18:46,923] {processor.py:153} INFO - Started process (PID=4092) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:18:46,924] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:18:46,924] {logging_mixin.py:115} INFO - [2022-11-02 16:18:46,924] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:18:47,121] {logging_mixin.py:115} INFO - [2022-11-02 16:18:47,121] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:18:47,121] {logging_mixin.py:115} INFO - [2022-11-02 16:18:47,121] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:18:48,961] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:18:48,970] {logging_mixin.py:115} INFO - [2022-11-02 16:18:48,970] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:18:48,985] {logging_mixin.py:115} INFO - [2022-11-02 16:18:48,985] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:18:49,001] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.084 seconds
+[2022-11-02 16:19:32,484] {processor.py:153} INFO - Started process (PID=4260) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:19:32,484] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:19:32,485] {logging_mixin.py:115} INFO - [2022-11-02 16:19:32,485] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:19:32,718] {logging_mixin.py:115} INFO - [2022-11-02 16:19:32,718] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:19:32,718] {logging_mixin.py:115} INFO - [2022-11-02 16:19:32,718] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:19:34,506] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:19:34,538] {logging_mixin.py:115} INFO - [2022-11-02 16:19:34,538] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:19:34,551] {logging_mixin.py:115} INFO - [2022-11-02 16:19:34,551] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:19:34,560] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.083 seconds
+[2022-11-02 16:20:14,516] {processor.py:153} INFO - Started process (PID=4418) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:20:14,522] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:20:14,523] {logging_mixin.py:115} INFO - [2022-11-02 16:20:14,523] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:20:14,832] {logging_mixin.py:115} INFO - [2022-11-02 16:20:14,832] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:20:14,832] {logging_mixin.py:115} INFO - [2022-11-02 16:20:14,832] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:20:16,571] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:20:16,579] {logging_mixin.py:115} INFO - [2022-11-02 16:20:16,579] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:20:16,593] {logging_mixin.py:115} INFO - [2022-11-02 16:20:16,592] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:20:16,600] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.086 seconds
+[2022-11-02 16:20:54,524] {processor.py:153} INFO - Started process (PID=4582) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:20:54,524] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:20:54,525] {logging_mixin.py:115} INFO - [2022-11-02 16:20:54,525] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:20:54,717] {logging_mixin.py:115} INFO - [2022-11-02 16:20:54,716] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:20:54,717] {logging_mixin.py:115} INFO - [2022-11-02 16:20:54,717] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:20:56,499] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:20:56,537] {logging_mixin.py:115} INFO - [2022-11-02 16:20:56,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:20:56,550] {logging_mixin.py:115} INFO - [2022-11-02 16:20:56,550] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:20:56,560] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.042 seconds
+[2022-11-02 16:21:36,563] {processor.py:153} INFO - Started process (PID=4761) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:21:36,564] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:21:36,565] {logging_mixin.py:115} INFO - [2022-11-02 16:21:36,565] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:21:36,749] {logging_mixin.py:115} INFO - [2022-11-02 16:21:36,749] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:21:36,749] {logging_mixin.py:115} INFO - [2022-11-02 16:21:36,749] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:21:38,475] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:21:38,483] {logging_mixin.py:115} INFO - [2022-11-02 16:21:38,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:21:38,497] {logging_mixin.py:115} INFO - [2022-11-02 16:21:38,497] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:21:38,506] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.948 seconds
+[2022-11-02 16:22:16,887] {processor.py:153} INFO - Started process (PID=4933) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:22:16,893] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:22:16,893] {logging_mixin.py:115} INFO - [2022-11-02 16:22:16,893] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:22:17,284] {logging_mixin.py:115} INFO - [2022-11-02 16:22:17,284] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:22:17,284] {logging_mixin.py:115} INFO - [2022-11-02 16:22:17,284] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:22:19,351] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:22:19,380] {logging_mixin.py:115} INFO - [2022-11-02 16:22:19,380] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:22:19,392] {logging_mixin.py:115} INFO - [2022-11-02 16:22:19,392] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:22:19,400] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.516 seconds
+[2022-11-02 16:22:58,579] {processor.py:153} INFO - Started process (PID=5098) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:22:58,580] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:22:58,580] {logging_mixin.py:115} INFO - [2022-11-02 16:22:58,580] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:22:58,772] {logging_mixin.py:115} INFO - [2022-11-02 16:22:58,772] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:22:58,772] {logging_mixin.py:115} INFO - [2022-11-02 16:22:58,772] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:23:00,553] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:23:00,562] {logging_mixin.py:115} INFO - [2022-11-02 16:23:00,562] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:23:00,576] {logging_mixin.py:115} INFO - [2022-11-02 16:23:00,576] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:23:00,584] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.008 seconds
+[2022-11-02 16:23:39,046] {processor.py:153} INFO - Started process (PID=5254) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:23:39,047] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:23:39,048] {logging_mixin.py:115} INFO - [2022-11-02 16:23:39,048] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:23:39,245] {logging_mixin.py:115} INFO - [2022-11-02 16:23:39,245] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:23:39,245] {logging_mixin.py:115} INFO - [2022-11-02 16:23:39,245] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:23:41,063] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:23:41,094] {logging_mixin.py:115} INFO - [2022-11-02 16:23:41,094] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:23:41,107] {logging_mixin.py:115} INFO - [2022-11-02 16:23:41,107] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:23:41,124] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.081 seconds
+[2022-11-02 16:24:19,618] {processor.py:153} INFO - Started process (PID=5412) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:24:19,618] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:24:19,619] {logging_mixin.py:115} INFO - [2022-11-02 16:24:19,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:24:19,817] {logging_mixin.py:115} INFO - [2022-11-02 16:24:19,817] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:24:19,817] {logging_mixin.py:115} INFO - [2022-11-02 16:24:19,817] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:24:21,787] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:24:21,796] {logging_mixin.py:115} INFO - [2022-11-02 16:24:21,796] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:24:21,810] {logging_mixin.py:115} INFO - [2022-11-02 16:24:21,810] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:24:21,825] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.210 seconds
+[2022-11-02 16:24:59,536] {processor.py:153} INFO - Started process (PID=5575) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:24:59,542] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:24:59,542] {logging_mixin.py:115} INFO - [2022-11-02 16:24:59,542] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:24:59,787] {logging_mixin.py:115} INFO - [2022-11-02 16:24:59,787] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:24:59,787] {logging_mixin.py:115} INFO - [2022-11-02 16:24:59,787] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:25:01,830] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:25:01,862] {logging_mixin.py:115} INFO - [2022-11-02 16:25:01,862] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:25:01,876] {logging_mixin.py:115} INFO - [2022-11-02 16:25:01,876] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:25:01,885] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.351 seconds
+[2022-11-02 16:25:45,116] {processor.py:153} INFO - Started process (PID=5736) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:25:45,123] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:25:45,124] {logging_mixin.py:115} INFO - [2022-11-02 16:25:45,124] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:25:45,415] {logging_mixin.py:115} INFO - [2022-11-02 16:25:45,415] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:25:45,415] {logging_mixin.py:115} INFO - [2022-11-02 16:25:45,415] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:25:47,460] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:25:47,469] {logging_mixin.py:115} INFO - [2022-11-02 16:25:47,469] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:25:47,483] {logging_mixin.py:115} INFO - [2022-11-02 16:25:47,483] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:25:47,490] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.376 seconds
+[2022-11-02 16:26:28,995] {processor.py:153} INFO - Started process (PID=5901) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:26:29,001] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:26:29,001] {logging_mixin.py:115} INFO - [2022-11-02 16:26:29,001] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:26:29,241] {logging_mixin.py:115} INFO - [2022-11-02 16:26:29,241] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:26:29,241] {logging_mixin.py:115} INFO - [2022-11-02 16:26:29,241] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:26:31,225] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:26:31,256] {logging_mixin.py:115} INFO - [2022-11-02 16:26:31,256] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:26:31,269] {logging_mixin.py:115} INFO - [2022-11-02 16:26:31,269] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:26:31,285] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.293 seconds
+[2022-11-02 16:27:12,106] {processor.py:153} INFO - Started process (PID=6059) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:27:12,107] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:27:12,108] {logging_mixin.py:115} INFO - [2022-11-02 16:27:12,108] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:27:12,306] {logging_mixin.py:115} INFO - [2022-11-02 16:27:12,305] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:27:12,306] {logging_mixin.py:115} INFO - [2022-11-02 16:27:12,306] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:27:14,347] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:27:14,357] {logging_mixin.py:115} INFO - [2022-11-02 16:27:14,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:27:14,371] {logging_mixin.py:115} INFO - [2022-11-02 16:27:14,370] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:27:14,378] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.276 seconds
+[2022-11-02 16:27:57,739] {processor.py:153} INFO - Started process (PID=6226) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:27:57,740] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:27:57,741] {logging_mixin.py:115} INFO - [2022-11-02 16:27:57,740] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:27:57,937] {logging_mixin.py:115} INFO - [2022-11-02 16:27:57,936] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:27:57,937] {logging_mixin.py:115} INFO - [2022-11-02 16:27:57,937] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:27:59,932] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:27:59,986] {logging_mixin.py:115} INFO - [2022-11-02 16:27:59,986] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:28:00,022] {logging_mixin.py:115} INFO - [2022-11-02 16:28:00,022] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:28:00,040] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.307 seconds
+[2022-11-02 16:28:40,470] {processor.py:153} INFO - Started process (PID=6393) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:28:40,471] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:28:40,471] {logging_mixin.py:115} INFO - [2022-11-02 16:28:40,471] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:28:40,731] {logging_mixin.py:115} INFO - [2022-11-02 16:28:40,731] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:28:40,731] {logging_mixin.py:115} INFO - [2022-11-02 16:28:40,731] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:28:42,811] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:28:42,821] {logging_mixin.py:115} INFO - [2022-11-02 16:28:42,821] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:28:42,834] {logging_mixin.py:115} INFO - [2022-11-02 16:28:42,834] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:28:42,848] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.382 seconds
+[2022-11-02 16:29:23,912] {processor.py:153} INFO - Started process (PID=6530) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:29:23,912] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:29:23,913] {logging_mixin.py:115} INFO - [2022-11-02 16:29:23,913] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:29:24,091] {logging_mixin.py:115} INFO - [2022-11-02 16:29:24,091] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:29:24,091] {logging_mixin.py:115} INFO - [2022-11-02 16:29:24,091] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:29:25,927] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:29:25,955] {logging_mixin.py:115} INFO - [2022-11-02 16:29:25,955] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:29:25,967] {logging_mixin.py:115} INFO - [2022-11-02 16:29:25,967] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:29:25,982] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.076 seconds
+[2022-11-02 16:30:08,880] {processor.py:153} INFO - Started process (PID=6642) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:30:08,881] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:30:08,881] {logging_mixin.py:115} INFO - [2022-11-02 16:30:08,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:30:09,059] {logging_mixin.py:115} INFO - [2022-11-02 16:30:09,059] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:30:09,059] {logging_mixin.py:115} INFO - [2022-11-02 16:30:09,059] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:30:10,896] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:30:10,904] {logging_mixin.py:115} INFO - [2022-11-02 16:30:10,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:30:10,917] {logging_mixin.py:115} INFO - [2022-11-02 16:30:10,917] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:30:10,930] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.056 seconds
+[2022-11-02 16:32:08,103] {processor.py:153} INFO - Started process (PID=6989) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:32:08,104] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:32:08,104] {logging_mixin.py:115} INFO - [2022-11-02 16:32:08,104] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:32:08,301] {logging_mixin.py:115} INFO - [2022-11-02 16:32:08,301] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:32:08,302] {logging_mixin.py:115} INFO - [2022-11-02 16:32:08,301] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:32:10,271] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:32:10,301] {logging_mixin.py:115} INFO - [2022-11-02 16:32:10,301] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:32:10,314] {logging_mixin.py:115} INFO - [2022-11-02 16:32:10,314] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:32:10,330] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.233 seconds
+[2022-11-02 16:32:50,565] {processor.py:153} INFO - Started process (PID=7098) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:32:50,566] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:32:50,566] {logging_mixin.py:115} INFO - [2022-11-02 16:32:50,566] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:32:50,795] {logging_mixin.py:115} INFO - [2022-11-02 16:32:50,795] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:32:50,795] {logging_mixin.py:115} INFO - [2022-11-02 16:32:50,795] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:32:52,777] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:32:52,786] {logging_mixin.py:115} INFO - [2022-11-02 16:32:52,786] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:32:52,799] {logging_mixin.py:115} INFO - [2022-11-02 16:32:52,799] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:32:52,812] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.253 seconds
+[2022-11-02 16:33:36,203] {processor.py:153} INFO - Started process (PID=7210) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:33:36,204] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:33:36,204] {logging_mixin.py:115} INFO - [2022-11-02 16:33:36,204] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:33:36,401] {logging_mixin.py:115} INFO - [2022-11-02 16:33:36,400] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:33:36,401] {logging_mixin.py:115} INFO - [2022-11-02 16:33:36,401] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:33:38,371] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:33:38,401] {logging_mixin.py:115} INFO - [2022-11-02 16:33:38,401] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:33:38,414] {logging_mixin.py:115} INFO - [2022-11-02 16:33:38,414] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:33:38,431] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.235 seconds
+[2022-11-02 16:34:20,052] {processor.py:153} INFO - Started process (PID=7320) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:34:20,052] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:34:20,053] {logging_mixin.py:115} INFO - [2022-11-02 16:34:20,053] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:34:20,281] {logging_mixin.py:115} INFO - [2022-11-02 16:34:20,281] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:34:20,281] {logging_mixin.py:115} INFO - [2022-11-02 16:34:20,281] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:34:22,253] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:34:22,262] {logging_mixin.py:115} INFO - [2022-11-02 16:34:22,262] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:34:22,275] {logging_mixin.py:115} INFO - [2022-11-02 16:34:22,275] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:34:22,289] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.244 seconds
+[2022-11-02 16:35:03,920] {processor.py:153} INFO - Started process (PID=7430) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:35:03,921] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:35:03,922] {logging_mixin.py:115} INFO - [2022-11-02 16:35:03,921] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:35:04,165] {logging_mixin.py:115} INFO - [2022-11-02 16:35:04,165] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:35:04,165] {logging_mixin.py:115} INFO - [2022-11-02 16:35:04,165] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:35:06,144] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:35:06,174] {logging_mixin.py:115} INFO - [2022-11-02 16:35:06,174] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:35:06,187] {logging_mixin.py:115} INFO - [2022-11-02 16:35:06,187] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:35:06,204] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.289 seconds
+[2022-11-02 16:35:47,489] {processor.py:153} INFO - Started process (PID=7541) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:35:47,490] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:35:47,491] {logging_mixin.py:115} INFO - [2022-11-02 16:35:47,491] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:35:47,685] {logging_mixin.py:115} INFO - [2022-11-02 16:35:47,685] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:35:47,685] {logging_mixin.py:115} INFO - [2022-11-02 16:35:47,685] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:35:49,653] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:35:49,662] {logging_mixin.py:115} INFO - [2022-11-02 16:35:49,662] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:35:49,675] {logging_mixin.py:115} INFO - [2022-11-02 16:35:49,675] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:35:49,683] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.200 seconds
+[2022-11-02 16:36:28,933] {processor.py:153} INFO - Started process (PID=7650) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:36:28,935] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:36:28,935] {logging_mixin.py:115} INFO - [2022-11-02 16:36:28,935] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:36:29,157] {logging_mixin.py:115} INFO - [2022-11-02 16:36:29,157] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:36:29,157] {logging_mixin.py:115} INFO - [2022-11-02 16:36:29,157] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:36:31,168] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:36:31,199] {logging_mixin.py:115} INFO - [2022-11-02 16:36:31,199] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:36:31,213] {logging_mixin.py:115} INFO - [2022-11-02 16:36:31,212] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:36:31,229] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.300 seconds
+[2022-11-02 16:37:10,324] {processor.py:153} INFO - Started process (PID=8091) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:37:10,324] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:37:10,325] {logging_mixin.py:115} INFO - [2022-11-02 16:37:10,325] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:37:10,522] {logging_mixin.py:115} INFO - [2022-11-02 16:37:10,522] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:37:10,522] {logging_mixin.py:115} INFO - [2022-11-02 16:37:10,522] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:37:12,498] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:37:12,507] {logging_mixin.py:115} INFO - [2022-11-02 16:37:12,507] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:37:12,521] {logging_mixin.py:115} INFO - [2022-11-02 16:37:12,521] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:37:12,536] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.218 seconds
+[2022-11-02 16:37:49,799] {processor.py:153} INFO - Started process (PID=8198) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:37:49,800] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:37:49,800] {logging_mixin.py:115} INFO - [2022-11-02 16:37:49,800] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:37:49,995] {logging_mixin.py:115} INFO - [2022-11-02 16:37:49,995] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:37:49,995] {logging_mixin.py:115} INFO - [2022-11-02 16:37:49,995] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:37:51,965] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:37:51,996] {logging_mixin.py:115} INFO - [2022-11-02 16:37:51,995] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:37:52,008] {logging_mixin.py:115} INFO - [2022-11-02 16:37:52,008] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:37:52,025] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.233 seconds
+[2022-11-02 16:38:29,995] {processor.py:153} INFO - Started process (PID=8384) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:38:29,996] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:38:29,997] {logging_mixin.py:115} INFO - [2022-11-02 16:38:29,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:38:30,196] {logging_mixin.py:115} INFO - [2022-11-02 16:38:30,196] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:38:30,196] {logging_mixin.py:115} INFO - [2022-11-02 16:38:30,196] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:38:32,162] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:38:32,171] {logging_mixin.py:115} INFO - [2022-11-02 16:38:32,171] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:38:32,184] {logging_mixin.py:115} INFO - [2022-11-02 16:38:32,184] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:38:32,200] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.210 seconds
+[2022-11-02 16:39:10,459] {processor.py:153} INFO - Started process (PID=8492) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:39:10,460] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:39:10,461] {logging_mixin.py:115} INFO - [2022-11-02 16:39:10,461] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:39:10,688] {logging_mixin.py:115} INFO - [2022-11-02 16:39:10,688] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:39:10,688] {logging_mixin.py:115} INFO - [2022-11-02 16:39:10,688] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:39:12,635] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:39:12,665] {logging_mixin.py:115} INFO - [2022-11-02 16:39:12,665] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:39:12,678] {logging_mixin.py:115} INFO - [2022-11-02 16:39:12,678] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:39:12,694] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.241 seconds
+[2022-11-02 16:40:03,061] {processor.py:153} INFO - Started process (PID=8720) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:40:03,061] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:40:03,062] {logging_mixin.py:115} INFO - [2022-11-02 16:40:03,062] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:40:03,307] {logging_mixin.py:115} INFO - [2022-11-02 16:40:03,307] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:40:03,307] {logging_mixin.py:115} INFO - [2022-11-02 16:40:03,307] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:40:05,323] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:40:05,332] {logging_mixin.py:115} INFO - [2022-11-02 16:40:05,332] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:40:05,346] {logging_mixin.py:115} INFO - [2022-11-02 16:40:05,346] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:40:05,358] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.302 seconds
+[2022-11-02 16:40:54,142] {processor.py:153} INFO - Started process (PID=8838) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:40:54,143] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:40:54,143] {logging_mixin.py:115} INFO - [2022-11-02 16:40:54,143] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:40:54,339] {logging_mixin.py:115} INFO - [2022-11-02 16:40:54,339] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:40:54,339] {logging_mixin.py:115} INFO - [2022-11-02 16:40:54,339] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:40:56,300] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:40:56,330] {logging_mixin.py:115} INFO - [2022-11-02 16:40:56,330] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:40:56,343] {logging_mixin.py:115} INFO - [2022-11-02 16:40:56,343] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-10-01T00:00:00+00:00, run_after=2022-11-01T00:00:00+00:00
+[2022-11-02 16:40:56,360] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.224 seconds
+[2022-11-02 16:42:23,442] {processor.py:153} INFO - Started process (PID=9095) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:42:23,443] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:42:23,443] {logging_mixin.py:115} INFO - [2022-11-02 16:42:23,443] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:42:23,640] {logging_mixin.py:115} INFO - [2022-11-02 16:42:23,640] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:42:23,640] {logging_mixin.py:115} INFO - [2022-11-02 16:42:23,640] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:42:25,595] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:42:25,604] {logging_mixin.py:115} INFO - [2022-11-02 16:42:25,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:42:25,617] {logging_mixin.py:115} INFO - [2022-11-02 16:42:25,617] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:42:25,633] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.197 seconds
+[2022-11-02 16:43:12,264] {processor.py:153} INFO - Started process (PID=9211) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:43:12,265] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:43:12,266] {logging_mixin.py:115} INFO - [2022-11-02 16:43:12,265] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:43:12,461] {logging_mixin.py:115} INFO - [2022-11-02 16:43:12,461] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:43:12,461] {logging_mixin.py:115} INFO - [2022-11-02 16:43:12,461] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:43:14,423] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:43:14,453] {logging_mixin.py:115} INFO - [2022-11-02 16:43:14,453] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:43:14,466] {logging_mixin.py:115} INFO - [2022-11-02 16:43:14,466] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:43:14,484] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.225 seconds
+[2022-11-02 16:43:54,173] {processor.py:153} INFO - Started process (PID=9321) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:43:54,174] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:43:54,174] {logging_mixin.py:115} INFO - [2022-11-02 16:43:54,174] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:43:54,370] {logging_mixin.py:115} INFO - [2022-11-02 16:43:54,370] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:43:54,370] {logging_mixin.py:115} INFO - [2022-11-02 16:43:54,370] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:43:56,340] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:43:56,349] {logging_mixin.py:115} INFO - [2022-11-02 16:43:56,349] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:43:56,363] {logging_mixin.py:115} INFO - [2022-11-02 16:43:56,363] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:43:56,377] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.211 seconds
+[2022-11-02 16:44:35,084] {processor.py:153} INFO - Started process (PID=9430) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:44:35,084] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:44:35,085] {logging_mixin.py:115} INFO - [2022-11-02 16:44:35,085] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:44:35,310] {logging_mixin.py:115} INFO - [2022-11-02 16:44:35,310] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:44:35,310] {logging_mixin.py:115} INFO - [2022-11-02 16:44:35,310] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:44:37,284] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:44:37,314] {logging_mixin.py:115} INFO - [2022-11-02 16:44:37,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:44:37,328] {logging_mixin.py:115} INFO - [2022-11-02 16:44:37,328] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:44:37,343] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.265 seconds
+[2022-11-02 16:45:38,686] {processor.py:153} INFO - Started process (PID=9608) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:45:38,687] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:45:38,687] {logging_mixin.py:115} INFO - [2022-11-02 16:45:38,687] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:45:38,884] {logging_mixin.py:115} INFO - [2022-11-02 16:45:38,884] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:45:38,884] {logging_mixin.py:115} INFO - [2022-11-02 16:45:38,884] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:45:40,870] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:45:40,878] {logging_mixin.py:115} INFO - [2022-11-02 16:45:40,878] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:45:40,892] {logging_mixin.py:115} INFO - [2022-11-02 16:45:40,892] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:45:40,907] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.228 seconds
+[2022-11-02 16:46:29,808] {processor.py:153} INFO - Started process (PID=9726) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:46:29,809] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:46:29,810] {logging_mixin.py:115} INFO - [2022-11-02 16:46:29,810] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:46:30,027] {logging_mixin.py:115} INFO - [2022-11-02 16:46:30,027] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:46:30,027] {logging_mixin.py:115} INFO - [2022-11-02 16:46:30,027] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:46:31,897] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:46:31,928] {logging_mixin.py:115} INFO - [2022-11-02 16:46:31,928] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:46:31,941] {logging_mixin.py:115} INFO - [2022-11-02 16:46:31,941] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:46:31,957] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.155 seconds
+[2022-11-02 16:47:20,706] {processor.py:153} INFO - Started process (PID=9881) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:47:20,707] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:47:20,708] {logging_mixin.py:115} INFO - [2022-11-02 16:47:20,708] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:47:20,934] {logging_mixin.py:115} INFO - [2022-11-02 16:47:20,934] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:47:20,934] {logging_mixin.py:115} INFO - [2022-11-02 16:47:20,934] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:47:22,888] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:47:22,896] {logging_mixin.py:115} INFO - [2022-11-02 16:47:22,896] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:47:22,910] {logging_mixin.py:115} INFO - [2022-11-02 16:47:22,910] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:47:22,924] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.225 seconds
+[2022-11-02 16:48:02,732] {processor.py:153} INFO - Started process (PID=10005) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:48:02,733] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:48:02,734] {logging_mixin.py:115} INFO - [2022-11-02 16:48:02,734] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:48:02,922] {logging_mixin.py:115} INFO - [2022-11-02 16:48:02,922] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:48:02,922] {logging_mixin.py:115} INFO - [2022-11-02 16:48:02,922] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:48:04,952] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:48:04,983] {logging_mixin.py:115} INFO - [2022-11-02 16:48:04,983] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:48:04,998] {logging_mixin.py:115} INFO - [2022-11-02 16:48:04,998] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:48:05,014] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.288 seconds
+[2022-11-02 16:48:49,604] {processor.py:153} INFO - Started process (PID=10120) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:48:49,605] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:48:49,606] {logging_mixin.py:115} INFO - [2022-11-02 16:48:49,606] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:48:49,796] {logging_mixin.py:115} INFO - [2022-11-02 16:48:49,796] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:48:49,796] {logging_mixin.py:115} INFO - [2022-11-02 16:48:49,796] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:48:51,823] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:48:51,831] {logging_mixin.py:115} INFO - [2022-11-02 16:48:51,831] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:48:51,845] {logging_mixin.py:115} INFO - [2022-11-02 16:48:51,845] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:48:51,856] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.257 seconds
+[2022-11-02 16:49:49,103] {processor.py:153} INFO - Started process (PID=10298) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:49:49,104] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:49:49,105] {logging_mixin.py:115} INFO - [2022-11-02 16:49:49,105] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:49:49,285] {logging_mixin.py:115} INFO - [2022-11-02 16:49:49,285] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:49:49,285] {logging_mixin.py:115} INFO - [2022-11-02 16:49:49,285] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:49:51,114] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:49:51,143] {logging_mixin.py:115} INFO - [2022-11-02 16:49:51,143] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:49:51,156] {logging_mixin.py:115} INFO - [2022-11-02 16:49:51,156] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:49:51,169] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.070 seconds
+[2022-11-02 16:50:26,638] {processor.py:153} INFO - Started process (PID=10404) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:50:26,639] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:50:26,639] {logging_mixin.py:115} INFO - [2022-11-02 16:50:26,639] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:50:26,818] {logging_mixin.py:115} INFO - [2022-11-02 16:50:26,818] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:50:26,818] {logging_mixin.py:115} INFO - [2022-11-02 16:50:26,818] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:50:28,626] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:50:28,634] {logging_mixin.py:115} INFO - [2022-11-02 16:50:28,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:50:28,647] {logging_mixin.py:115} INFO - [2022-11-02 16:50:28,647] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:50:28,660] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.028 seconds
+[2022-11-02 16:51:23,183] {processor.py:153} INFO - Started process (PID=10588) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:51:23,184] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:51:23,185] {logging_mixin.py:115} INFO - [2022-11-02 16:51:23,184] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:51:23,370] {logging_mixin.py:115} INFO - [2022-11-02 16:51:23,370] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:51:23,370] {logging_mixin.py:115} INFO - [2022-11-02 16:51:23,370] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:51:25,210] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:51:25,239] {logging_mixin.py:115} INFO - [2022-11-02 16:51:25,239] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:51:25,254] {logging_mixin.py:115} INFO - [2022-11-02 16:51:25,254] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:51:25,266] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.088 seconds
+[2022-11-02 16:52:02,040] {processor.py:153} INFO - Started process (PID=10695) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:52:02,041] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:52:02,041] {logging_mixin.py:115} INFO - [2022-11-02 16:52:02,041] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:52:02,255] {logging_mixin.py:115} INFO - [2022-11-02 16:52:02,255] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:52:02,255] {logging_mixin.py:115} INFO - [2022-11-02 16:52:02,255] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:52:04,084] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:52:04,092] {logging_mixin.py:115} INFO - [2022-11-02 16:52:04,092] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:52:04,105] {logging_mixin.py:115} INFO - [2022-11-02 16:52:04,105] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:52:04,120] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.086 seconds
+[2022-11-02 16:52:42,535] {processor.py:153} INFO - Started process (PID=10803) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:52:42,536] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:52:42,536] {logging_mixin.py:115} INFO - [2022-11-02 16:52:42,536] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:52:42,734] {logging_mixin.py:115} INFO - [2022-11-02 16:52:42,734] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:52:42,734] {logging_mixin.py:115} INFO - [2022-11-02 16:52:42,734] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:52:44,534] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:52:44,539] {logging_mixin.py:115} INFO - [2022-11-02 16:52:44,538] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:52:44,551] {logging_mixin.py:115} INFO - [2022-11-02 16:52:44,551] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:52:44,561] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.029 seconds
+[2022-11-02 16:53:22,107] {processor.py:153} INFO - Started process (PID=10919) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:53:22,109] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:53:22,109] {logging_mixin.py:115} INFO - [2022-11-02 16:53:22,109] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:53:22,291] {logging_mixin.py:115} INFO - [2022-11-02 16:53:22,291] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:53:22,291] {logging_mixin.py:115} INFO - [2022-11-02 16:53:22,291] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:53:24,082] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:53:24,109] {logging_mixin.py:115} INFO - [2022-11-02 16:53:24,109] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:53:24,122] {logging_mixin.py:115} INFO - [2022-11-02 16:53:24,122] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:53:24,138] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.037 seconds
+[2022-11-02 16:54:00,812] {processor.py:153} INFO - Started process (PID=11019) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:54:00,813] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:54:00,814] {logging_mixin.py:115} INFO - [2022-11-02 16:54:00,814] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:54:01,037] {logging_mixin.py:115} INFO - [2022-11-02 16:54:01,037] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:54:01,037] {logging_mixin.py:115} INFO - [2022-11-02 16:54:01,037] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:54:02,962] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:54:02,971] {logging_mixin.py:115} INFO - [2022-11-02 16:54:02,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:54:02,984] {logging_mixin.py:115} INFO - [2022-11-02 16:54:02,984] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:54:02,996] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.188 seconds
+[2022-11-02 16:54:45,078] {processor.py:153} INFO - Started process (PID=11129) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:54:45,079] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:54:45,079] {logging_mixin.py:115} INFO - [2022-11-02 16:54:45,079] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:54:45,271] {logging_mixin.py:115} INFO - [2022-11-02 16:54:45,270] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:54:45,271] {logging_mixin.py:115} INFO - [2022-11-02 16:54:45,271] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:54:47,030] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:54:47,035] {logging_mixin.py:115} INFO - [2022-11-02 16:54:47,035] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:54:47,049] {logging_mixin.py:115} INFO - [2022-11-02 16:54:47,049] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:54:47,065] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.993 seconds
+[2022-11-02 16:55:27,128] {processor.py:153} INFO - Started process (PID=11239) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:55:27,129] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:55:27,130] {logging_mixin.py:115} INFO - [2022-11-02 16:55:27,130] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:55:27,352] {logging_mixin.py:115} INFO - [2022-11-02 16:55:27,352] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:55:27,352] {logging_mixin.py:115} INFO - [2022-11-02 16:55:27,352] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:55:29,046] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:55:29,213] {logging_mixin.py:115} INFO - [2022-11-02 16:55:29,213] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:55:29,225] {logging_mixin.py:115} INFO - [2022-11-02 16:55:29,225] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:55:29,236] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.114 seconds
+[2022-11-02 16:56:10,064] {processor.py:153} INFO - Started process (PID=11348) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:56:10,066] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:56:10,066] {logging_mixin.py:115} INFO - [2022-11-02 16:56:10,066] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:56:10,299] {logging_mixin.py:115} INFO - [2022-11-02 16:56:10,299] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:56:10,299] {logging_mixin.py:115} INFO - [2022-11-02 16:56:10,299] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:56:12,153] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:56:12,162] {logging_mixin.py:115} INFO - [2022-11-02 16:56:12,162] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:56:12,177] {logging_mixin.py:115} INFO - [2022-11-02 16:56:12,177] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:56:12,192] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.134 seconds
+[2022-11-02 16:56:57,061] {processor.py:153} INFO - Started process (PID=11460) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:56:57,061] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:56:57,062] {logging_mixin.py:115} INFO - [2022-11-02 16:56:57,062] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:56:57,285] {logging_mixin.py:115} INFO - [2022-11-02 16:56:57,285] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:56:57,285] {logging_mixin.py:115} INFO - [2022-11-02 16:56:57,285] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:56:59,007] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:56:59,011] {logging_mixin.py:115} INFO - [2022-11-02 16:56:59,011] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:56:59,024] {logging_mixin.py:115} INFO - [2022-11-02 16:56:59,024] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:56:59,036] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.982 seconds
+[2022-11-02 16:57:39,183] {processor.py:153} INFO - Started process (PID=11570) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:57:39,184] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:57:39,185] {logging_mixin.py:115} INFO - [2022-11-02 16:57:39,184] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:57:39,410] {logging_mixin.py:115} INFO - [2022-11-02 16:57:39,410] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:57:39,410] {logging_mixin.py:115} INFO - [2022-11-02 16:57:39,410] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:57:41,196] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:57:41,387] {logging_mixin.py:115} INFO - [2022-11-02 16:57:41,387] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:57:41,401] {logging_mixin.py:115} INFO - [2022-11-02 16:57:41,400] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:57:41,417] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.241 seconds
+[2022-11-02 16:58:21,380] {processor.py:153} INFO - Started process (PID=11680) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:58:21,380] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:58:21,381] {logging_mixin.py:115} INFO - [2022-11-02 16:58:21,381] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:58:21,568] {logging_mixin.py:115} INFO - [2022-11-02 16:58:21,568] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:58:21,569] {logging_mixin.py:115} INFO - [2022-11-02 16:58:21,569] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:58:23,359] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:58:23,367] {logging_mixin.py:115} INFO - [2022-11-02 16:58:23,367] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:58:23,382] {logging_mixin.py:115} INFO - [2022-11-02 16:58:23,382] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:58:23,397] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.024 seconds
+[2022-11-02 16:59:03,146] {processor.py:153} INFO - Started process (PID=11788) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:59:03,147] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:59:03,148] {logging_mixin.py:115} INFO - [2022-11-02 16:59:03,147] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:59:03,329] {logging_mixin.py:115} INFO - [2022-11-02 16:59:03,329] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:59:03,329] {logging_mixin.py:115} INFO - [2022-11-02 16:59:03,329] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:59:05,045] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:59:05,049] {logging_mixin.py:115} INFO - [2022-11-02 16:59:05,049] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:59:05,062] {logging_mixin.py:115} INFO - [2022-11-02 16:59:05,062] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:59:05,079] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.939 seconds
+[2022-11-02 16:59:47,401] {processor.py:153} INFO - Started process (PID=11898) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:59:47,402] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 16:59:47,402] {logging_mixin.py:115} INFO - [2022-11-02 16:59:47,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:59:47,598] {logging_mixin.py:115} INFO - [2022-11-02 16:59:47,598] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 16:59:47,599] {logging_mixin.py:115} INFO - [2022-11-02 16:59:47,599] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 16:59:49,764] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 16:59:49,797] {logging_mixin.py:115} INFO - [2022-11-02 16:59:49,797] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 16:59:49,811] {logging_mixin.py:115} INFO - [2022-11-02 16:59:49,811] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 16:59:49,827] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.432 seconds
+[2022-11-02 17:00:36,956] {processor.py:153} INFO - Started process (PID=12044) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:00:36,957] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:00:36,958] {logging_mixin.py:115} INFO - [2022-11-02 17:00:36,958] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:00:37,145] {logging_mixin.py:115} INFO - [2022-11-02 17:00:37,145] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:00:37,145] {logging_mixin.py:115} INFO - [2022-11-02 17:00:37,145] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:00:39,062] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:00:39,071] {logging_mixin.py:115} INFO - [2022-11-02 17:00:39,071] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:00:39,085] {logging_mixin.py:115} INFO - [2022-11-02 17:00:39,085] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:00:39,100] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.148 seconds
+[2022-11-02 17:01:21,236] {processor.py:153} INFO - Started process (PID=12157) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:01:21,236] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:01:21,237] {logging_mixin.py:115} INFO - [2022-11-02 17:01:21,237] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:01:21,472] {logging_mixin.py:115} INFO - [2022-11-02 17:01:21,472] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:01:21,472] {logging_mixin.py:115} INFO - [2022-11-02 17:01:21,472] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:01:23,371] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:01:23,375] {logging_mixin.py:115} INFO - [2022-11-02 17:01:23,375] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:01:23,389] {logging_mixin.py:115} INFO - [2022-11-02 17:01:23,389] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:01:23,404] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.175 seconds
+[2022-11-02 17:02:04,785] {processor.py:153} INFO - Started process (PID=12266) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:02:04,786] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:02:04,787] {logging_mixin.py:115} INFO - [2022-11-02 17:02:04,787] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:02:05,019] {logging_mixin.py:115} INFO - [2022-11-02 17:02:05,019] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:02:05,019] {logging_mixin.py:115} INFO - [2022-11-02 17:02:05,019] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:02:07,233] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:02:07,267] {logging_mixin.py:115} INFO - [2022-11-02 17:02:07,267] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:02:07,280] {logging_mixin.py:115} INFO - [2022-11-02 17:02:07,280] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:02:07,292] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.513 seconds
+[2022-11-02 17:02:48,718] {processor.py:153} INFO - Started process (PID=12377) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:02:48,719] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:02:48,720] {logging_mixin.py:115} INFO - [2022-11-02 17:02:48,720] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:02:48,908] {logging_mixin.py:115} INFO - [2022-11-02 17:02:48,908] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:02:48,908] {logging_mixin.py:115} INFO - [2022-11-02 17:02:48,908] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:02:50,783] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:02:50,791] {logging_mixin.py:115} INFO - [2022-11-02 17:02:50,791] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:02:50,805] {logging_mixin.py:115} INFO - [2022-11-02 17:02:50,805] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:02:50,817] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.105 seconds
+[2022-11-02 17:03:28,570] {processor.py:153} INFO - Started process (PID=12485) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:03:28,572] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:03:28,572] {logging_mixin.py:115} INFO - [2022-11-02 17:03:28,572] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:03:28,756] {logging_mixin.py:115} INFO - [2022-11-02 17:03:28,756] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:03:28,756] {logging_mixin.py:115} INFO - [2022-11-02 17:03:28,756] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:03:30,617] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:03:30,621] {logging_mixin.py:115} INFO - [2022-11-02 17:03:30,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:03:30,635] {logging_mixin.py:115} INFO - [2022-11-02 17:03:30,635] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:03:30,649] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.084 seconds
+[2022-11-02 17:04:07,739] {processor.py:153} INFO - Started process (PID=12592) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:04:07,740] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:04:07,741] {logging_mixin.py:115} INFO - [2022-11-02 17:04:07,740] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:04:07,972] {logging_mixin.py:115} INFO - [2022-11-02 17:04:07,972] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:04:07,972] {logging_mixin.py:115} INFO - [2022-11-02 17:04:07,972] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:04:09,844] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:04:09,873] {logging_mixin.py:115} INFO - [2022-11-02 17:04:09,873] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:04:09,885] {logging_mixin.py:115} INFO - [2022-11-02 17:04:09,885] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:04:09,901] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.167 seconds
+[2022-11-02 17:04:51,165] {processor.py:153} INFO - Started process (PID=12702) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:04:51,167] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:04:51,167] {logging_mixin.py:115} INFO - [2022-11-02 17:04:51,167] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:04:51,354] {logging_mixin.py:115} INFO - [2022-11-02 17:04:51,354] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:04:51,354] {logging_mixin.py:115} INFO - [2022-11-02 17:04:51,354] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:04:53,104] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:04:53,113] {logging_mixin.py:115} INFO - [2022-11-02 17:04:53,113] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:04:53,284] {logging_mixin.py:115} INFO - [2022-11-02 17:04:53,284] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:04:53,295] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.135 seconds
+[2022-11-02 17:05:35,776] {processor.py:153} INFO - Started process (PID=12813) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:05:35,776] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:05:35,777] {logging_mixin.py:115} INFO - [2022-11-02 17:05:35,777] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:05:35,967] {logging_mixin.py:115} INFO - [2022-11-02 17:05:35,967] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:05:35,967] {logging_mixin.py:115} INFO - [2022-11-02 17:05:35,967] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:05:37,715] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:05:37,719] {logging_mixin.py:115} INFO - [2022-11-02 17:05:37,719] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:05:37,734] {logging_mixin.py:115} INFO - [2022-11-02 17:05:37,734] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:05:37,910] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.140 seconds
+[2022-11-02 17:06:20,880] {processor.py:153} INFO - Started process (PID=12925) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:06:20,880] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:06:20,881] {logging_mixin.py:115} INFO - [2022-11-02 17:06:20,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:06:21,073] {logging_mixin.py:115} INFO - [2022-11-02 17:06:21,073] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:06:21,073] {logging_mixin.py:115} INFO - [2022-11-02 17:06:21,073] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:06:22,852] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:06:23,036] {logging_mixin.py:115} INFO - [2022-11-02 17:06:23,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:06:23,049] {logging_mixin.py:115} INFO - [2022-11-02 17:06:23,049] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:06:23,065] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.191 seconds
+[2022-11-02 17:07:02,615] {processor.py:153} INFO - Started process (PID=13034) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:07:02,616] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:07:02,616] {logging_mixin.py:115} INFO - [2022-11-02 17:07:02,616] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:07:02,841] {logging_mixin.py:115} INFO - [2022-11-02 17:07:02,841] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:07:02,841] {logging_mixin.py:115} INFO - [2022-11-02 17:07:02,841] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:07:04,620] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:07:04,629] {logging_mixin.py:115} INFO - [2022-11-02 17:07:04,629] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:07:04,794] {logging_mixin.py:115} INFO - [2022-11-02 17:07:04,794] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:07:04,808] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.199 seconds
+[2022-11-02 17:07:45,433] {processor.py:153} INFO - Started process (PID=13144) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:07:45,434] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:07:45,435] {logging_mixin.py:115} INFO - [2022-11-02 17:07:45,435] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:07:45,659] {logging_mixin.py:115} INFO - [2022-11-02 17:07:45,659] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:07:45,659] {logging_mixin.py:115} INFO - [2022-11-02 17:07:45,659] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:07:47,406] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:07:47,411] {logging_mixin.py:115} INFO - [2022-11-02 17:07:47,411] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:07:47,426] {logging_mixin.py:115} INFO - [2022-11-02 17:07:47,426] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:07:47,610] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.182 seconds
+[2022-11-02 17:08:28,418] {processor.py:153} INFO - Started process (PID=13254) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:08:28,419] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:08:28,420] {logging_mixin.py:115} INFO - [2022-11-02 17:08:28,420] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:08:28,641] {logging_mixin.py:115} INFO - [2022-11-02 17:08:28,641] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:08:28,641] {logging_mixin.py:115} INFO - [2022-11-02 17:08:28,641] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:08:30,377] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:08:30,558] {logging_mixin.py:115} INFO - [2022-11-02 17:08:30,558] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:08:30,571] {logging_mixin.py:115} INFO - [2022-11-02 17:08:30,571] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:08:30,588] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.176 seconds
+[2022-11-02 17:09:09,068] {processor.py:153} INFO - Started process (PID=13364) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:09:09,069] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:09:09,069] {logging_mixin.py:115} INFO - [2022-11-02 17:09:09,069] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:09:09,290] {logging_mixin.py:115} INFO - [2022-11-02 17:09:09,290] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:09:09,290] {logging_mixin.py:115} INFO - [2022-11-02 17:09:09,290] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:09:11,053] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:09:11,064] {logging_mixin.py:115} INFO - [2022-11-02 17:09:11,064] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:09:11,234] {logging_mixin.py:115} INFO - [2022-11-02 17:09:11,234] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:09:11,248] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.186 seconds
+[2022-11-02 17:09:49,766] {processor.py:153} INFO - Started process (PID=13472) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:09:49,767] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:09:49,767] {logging_mixin.py:115} INFO - [2022-11-02 17:09:49,767] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:09:49,950] {logging_mixin.py:115} INFO - [2022-11-02 17:09:49,950] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:09:49,950] {logging_mixin.py:115} INFO - [2022-11-02 17:09:49,950] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:09:51,687] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:09:51,692] {logging_mixin.py:115} INFO - [2022-11-02 17:09:51,692] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:09:51,856] {logging_mixin.py:115} INFO - [2022-11-02 17:09:51,856] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:09:51,869] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.110 seconds
+[2022-11-02 17:10:29,921] {processor.py:153} INFO - Started process (PID=13581) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:10:29,922] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:10:29,922] {logging_mixin.py:115} INFO - [2022-11-02 17:10:29,922] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:10:30,144] {logging_mixin.py:115} INFO - [2022-11-02 17:10:30,144] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:10:30,144] {logging_mixin.py:115} INFO - [2022-11-02 17:10:30,144] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:10:31,903] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:10:32,091] {logging_mixin.py:115} INFO - [2022-11-02 17:10:32,091] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:10:32,104] {logging_mixin.py:115} INFO - [2022-11-02 17:10:32,103] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:10:32,117] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.200 seconds
+[2022-11-02 17:11:13,663] {processor.py:153} INFO - Started process (PID=13690) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:11:13,664] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:11:13,664] {logging_mixin.py:115} INFO - [2022-11-02 17:11:13,664] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:11:13,889] {logging_mixin.py:115} INFO - [2022-11-02 17:11:13,889] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:11:13,889] {logging_mixin.py:115} INFO - [2022-11-02 17:11:13,889] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:11:15,694] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:11:15,702] {logging_mixin.py:115} INFO - [2022-11-02 17:11:15,702] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:11:15,866] {logging_mixin.py:115} INFO - [2022-11-02 17:11:15,866] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:11:15,883] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.226 seconds
+[2022-11-02 17:11:57,019] {processor.py:153} INFO - Started process (PID=13801) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:11:57,020] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:11:57,021] {logging_mixin.py:115} INFO - [2022-11-02 17:11:57,020] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:11:57,260] {logging_mixin.py:115} INFO - [2022-11-02 17:11:57,260] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:11:57,261] {logging_mixin.py:115} INFO - [2022-11-02 17:11:57,261] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:11:59,050] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:11:59,055] {logging_mixin.py:115} INFO - [2022-11-02 17:11:59,055] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:11:59,219] {logging_mixin.py:115} INFO - [2022-11-02 17:11:59,219] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:11:59,231] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.217 seconds
+[2022-11-02 17:12:38,101] {processor.py:153} INFO - Started process (PID=13909) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:12:38,102] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:12:38,102] {logging_mixin.py:115} INFO - [2022-11-02 17:12:38,102] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:12:38,295] {logging_mixin.py:115} INFO - [2022-11-02 17:12:38,295] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:12:38,295] {logging_mixin.py:115} INFO - [2022-11-02 17:12:38,295] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:12:40,055] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:12:40,243] {logging_mixin.py:115} INFO - [2022-11-02 17:12:40,243] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:12:40,256] {logging_mixin.py:115} INFO - [2022-11-02 17:12:40,256] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:12:40,271] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.175 seconds
+[2022-11-02 17:13:17,156] {processor.py:153} INFO - Started process (PID=14017) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:13:17,157] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:13:17,158] {logging_mixin.py:115} INFO - [2022-11-02 17:13:17,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:13:17,342] {logging_mixin.py:115} INFO - [2022-11-02 17:13:17,342] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:13:17,342] {logging_mixin.py:115} INFO - [2022-11-02 17:13:17,342] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:13:19,069] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:13:19,077] {logging_mixin.py:115} INFO - [2022-11-02 17:13:19,077] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:13:19,238] {logging_mixin.py:115} INFO - [2022-11-02 17:13:19,237] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:13:19,245] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.095 seconds
+[2022-11-02 17:13:57,228] {processor.py:153} INFO - Started process (PID=14124) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:13:57,229] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:13:57,230] {logging_mixin.py:115} INFO - [2022-11-02 17:13:57,230] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:13:57,417] {logging_mixin.py:115} INFO - [2022-11-02 17:13:57,417] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:13:57,417] {logging_mixin.py:115} INFO - [2022-11-02 17:13:57,417] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:13:59,150] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:13:59,155] {logging_mixin.py:115} INFO - [2022-11-02 17:13:59,155] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:13:59,313] {logging_mixin.py:115} INFO - [2022-11-02 17:13:59,313] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:13:59,325] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.102 seconds
+[2022-11-02 17:14:37,879] {processor.py:153} INFO - Started process (PID=14233) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:14:37,879] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:14:37,880] {logging_mixin.py:115} INFO - [2022-11-02 17:14:37,880] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:14:38,072] {logging_mixin.py:115} INFO - [2022-11-02 17:14:38,072] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:14:38,072] {logging_mixin.py:115} INFO - [2022-11-02 17:14:38,072] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:14:39,845] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:14:39,876] {logging_mixin.py:115} INFO - [2022-11-02 17:14:39,876] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:14:39,889] {logging_mixin.py:115} INFO - [2022-11-02 17:14:39,889] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:14:39,904] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.032 seconds
+[2022-11-02 17:15:19,292] {processor.py:153} INFO - Started process (PID=14342) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:15:19,292] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:15:19,293] {logging_mixin.py:115} INFO - [2022-11-02 17:15:19,293] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:15:19,519] {logging_mixin.py:115} INFO - [2022-11-02 17:15:19,519] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:15:19,519] {logging_mixin.py:115} INFO - [2022-11-02 17:15:19,519] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:15:21,332] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:15:21,342] {logging_mixin.py:115} INFO - [2022-11-02 17:15:21,342] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:15:21,356] {logging_mixin.py:115} INFO - [2022-11-02 17:15:21,356] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:15:21,366] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.081 seconds
+[2022-11-02 17:16:01,344] {processor.py:153} INFO - Started process (PID=14451) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:16:01,345] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:16:01,345] {logging_mixin.py:115} INFO - [2022-11-02 17:16:01,345] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:16:01,533] {logging_mixin.py:115} INFO - [2022-11-02 17:16:01,533] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:16:01,533] {logging_mixin.py:115} INFO - [2022-11-02 17:16:01,533] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:16:03,273] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:16:03,280] {logging_mixin.py:115} INFO - [2022-11-02 17:16:03,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:16:03,294] {logging_mixin.py:115} INFO - [2022-11-02 17:16:03,294] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:16:03,304] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.965 seconds
+[2022-11-02 17:16:38,452] {processor.py:153} INFO - Started process (PID=14559) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:16:38,452] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:16:38,453] {logging_mixin.py:115} INFO - [2022-11-02 17:16:38,453] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:16:38,675] {logging_mixin.py:115} INFO - [2022-11-02 17:16:38,675] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:16:38,675] {logging_mixin.py:115} INFO - [2022-11-02 17:16:38,675] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:16:40,391] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:16:40,421] {logging_mixin.py:115} INFO - [2022-11-02 17:16:40,421] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:16:40,433] {logging_mixin.py:115} INFO - [2022-11-02 17:16:40,433] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:16:40,452] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.007 seconds
+[2022-11-02 17:17:24,746] {processor.py:153} INFO - Started process (PID=14677) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:17:24,747] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:17:24,747] {logging_mixin.py:115} INFO - [2022-11-02 17:17:24,747] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:17:24,970] {logging_mixin.py:115} INFO - [2022-11-02 17:17:24,970] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:17:24,970] {logging_mixin.py:115} INFO - [2022-11-02 17:17:24,970] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:17:26,694] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:17:26,702] {logging_mixin.py:115} INFO - [2022-11-02 17:17:26,702] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:17:26,716] {logging_mixin.py:115} INFO - [2022-11-02 17:17:26,716] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:17:26,723] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.984 seconds
+[2022-11-02 17:17:59,807] {processor.py:153} INFO - Started process (PID=14766) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:17:59,808] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:17:59,808] {logging_mixin.py:115} INFO - [2022-11-02 17:17:59,808] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:18:00,031] {logging_mixin.py:115} INFO - [2022-11-02 17:18:00,031] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:18:00,031] {logging_mixin.py:115} INFO - [2022-11-02 17:18:00,031] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:18:01,763] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:18:01,794] {logging_mixin.py:115} INFO - [2022-11-02 17:18:01,794] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:18:01,809] {logging_mixin.py:115} INFO - [2022-11-02 17:18:01,809] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:18:01,828] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.027 seconds
+[2022-11-02 17:18:36,015] {processor.py:153} INFO - Started process (PID=14862) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:18:36,017] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:18:36,018] {logging_mixin.py:115} INFO - [2022-11-02 17:18:36,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:18:36,248] {logging_mixin.py:115} INFO - [2022-11-02 17:18:36,248] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:18:36,248] {logging_mixin.py:115} INFO - [2022-11-02 17:18:36,248] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:18:37,977] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:18:37,985] {logging_mixin.py:115} INFO - [2022-11-02 17:18:37,985] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:18:37,999] {logging_mixin.py:115} INFO - [2022-11-02 17:18:37,999] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:18:38,015] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.006 seconds
+[2022-11-02 17:19:17,850] {processor.py:153} INFO - Started process (PID=14972) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:19:17,851] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:19:17,851] {logging_mixin.py:115} INFO - [2022-11-02 17:19:17,851] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:19:18,076] {logging_mixin.py:115} INFO - [2022-11-02 17:19:18,076] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:19:18,077] {logging_mixin.py:115} INFO - [2022-11-02 17:19:18,077] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:19:19,836] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:19:19,842] {logging_mixin.py:115} INFO - [2022-11-02 17:19:19,842] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:19:19,857] {logging_mixin.py:115} INFO - [2022-11-02 17:19:19,857] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:19:19,875] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.031 seconds
+[2022-11-02 17:19:55,752] {processor.py:153} INFO - Started process (PID=15078) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:19:55,753] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:19:55,753] {logging_mixin.py:115} INFO - [2022-11-02 17:19:55,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:19:55,971] {logging_mixin.py:115} INFO - [2022-11-02 17:19:55,971] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:19:55,971] {logging_mixin.py:115} INFO - [2022-11-02 17:19:55,971] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:19:57,742] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:19:57,773] {logging_mixin.py:115} INFO - [2022-11-02 17:19:57,773] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:19:57,786] {logging_mixin.py:115} INFO - [2022-11-02 17:19:57,786] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:19:57,799] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.053 seconds
+[2022-11-02 17:20:39,624] {processor.py:153} INFO - Started process (PID=15188) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:20:39,624] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:20:39,625] {logging_mixin.py:115} INFO - [2022-11-02 17:20:39,625] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:20:39,848] {logging_mixin.py:115} INFO - [2022-11-02 17:20:39,847] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:20:39,848] {logging_mixin.py:115} INFO - [2022-11-02 17:20:39,848] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:20:41,568] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:20:41,576] {logging_mixin.py:115} INFO - [2022-11-02 17:20:41,576] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:20:41,590] {logging_mixin.py:115} INFO - [2022-11-02 17:20:41,590] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:20:41,605] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.987 seconds
+[2022-11-02 17:21:22,989] {processor.py:153} INFO - Started process (PID=15299) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:21:22,990] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:21:22,991] {logging_mixin.py:115} INFO - [2022-11-02 17:21:22,990] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:21:23,215] {logging_mixin.py:115} INFO - [2022-11-02 17:21:23,215] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:21:23,215] {logging_mixin.py:115} INFO - [2022-11-02 17:21:23,215] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:21:24,974] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:21:24,978] {logging_mixin.py:115} INFO - [2022-11-02 17:21:24,978] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:21:24,996] {logging_mixin.py:115} INFO - [2022-11-02 17:21:24,996] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:21:25,011] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.027 seconds
+[2022-11-02 17:22:01,728] {processor.py:153} INFO - Started process (PID=15407) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:22:01,728] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:22:01,729] {logging_mixin.py:115} INFO - [2022-11-02 17:22:01,729] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:22:01,950] {logging_mixin.py:115} INFO - [2022-11-02 17:22:01,950] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:22:01,950] {logging_mixin.py:115} INFO - [2022-11-02 17:22:01,950] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:22:03,709] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:22:03,742] {logging_mixin.py:115} INFO - [2022-11-02 17:22:03,742] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:22:03,755] {logging_mixin.py:115} INFO - [2022-11-02 17:22:03,755] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:22:03,773] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.051 seconds
+[2022-11-02 17:22:41,207] {processor.py:153} INFO - Started process (PID=15514) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:22:41,208] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:22:41,208] {logging_mixin.py:115} INFO - [2022-11-02 17:22:41,208] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:22:41,442] {logging_mixin.py:115} INFO - [2022-11-02 17:22:41,442] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:22:41,442] {logging_mixin.py:115} INFO - [2022-11-02 17:22:41,442] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:22:43,215] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:22:43,224] {logging_mixin.py:115} INFO - [2022-11-02 17:22:43,224] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:22:43,238] {logging_mixin.py:115} INFO - [2022-11-02 17:22:43,238] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:22:43,252] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.051 seconds
+[2022-11-02 17:23:21,283] {processor.py:153} INFO - Started process (PID=15623) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:23:21,284] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:23:21,285] {logging_mixin.py:115} INFO - [2022-11-02 17:23:21,285] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:23:21,510] {logging_mixin.py:115} INFO - [2022-11-02 17:23:21,510] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:23:21,510] {logging_mixin.py:115} INFO - [2022-11-02 17:23:21,510] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:23:23,231] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:23:23,236] {logging_mixin.py:115} INFO - [2022-11-02 17:23:23,236] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:23:23,250] {logging_mixin.py:115} INFO - [2022-11-02 17:23:23,250] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:23:23,260] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 1.984 seconds
+[2022-11-02 17:24:00,927] {processor.py:153} INFO - Started process (PID=15730) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:24:00,928] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:24:00,929] {logging_mixin.py:115} INFO - [2022-11-02 17:24:00,929] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:24:01,158] {logging_mixin.py:115} INFO - [2022-11-02 17:24:01,158] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:24:01,159] {logging_mixin.py:115} INFO - [2022-11-02 17:24:01,159] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:24:02,902] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:24:02,934] {logging_mixin.py:115} INFO - [2022-11-02 17:24:02,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:24:02,947] {logging_mixin.py:115} INFO - [2022-11-02 17:24:02,946] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:24:02,964] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.043 seconds
+[2022-11-02 17:24:44,224] {processor.py:153} INFO - Started process (PID=15840) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:24:44,225] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:24:44,225] {logging_mixin.py:115} INFO - [2022-11-02 17:24:44,225] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:24:44,455] {logging_mixin.py:115} INFO - [2022-11-02 17:24:44,455] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:24:44,455] {logging_mixin.py:115} INFO - [2022-11-02 17:24:44,455] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:24:46,311] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:24:46,320] {logging_mixin.py:115} INFO - [2022-11-02 17:24:46,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:24:46,333] {logging_mixin.py:115} INFO - [2022-11-02 17:24:46,333] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:24:46,346] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.128 seconds
+[2022-11-02 17:25:25,988] {processor.py:153} INFO - Started process (PID=15949) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:25:25,988] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:25:25,989] {logging_mixin.py:115} INFO - [2022-11-02 17:25:25,989] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:25:26,210] {logging_mixin.py:115} INFO - [2022-11-02 17:25:26,210] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:25:26,210] {logging_mixin.py:115} INFO - [2022-11-02 17:25:26,210] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:25:28,112] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:25:28,117] {logging_mixin.py:115} INFO - [2022-11-02 17:25:28,117] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:25:28,131] {logging_mixin.py:115} INFO - [2022-11-02 17:25:28,131] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:25:28,146] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.165 seconds
+[2022-11-02 17:26:10,015] {processor.py:153} INFO - Started process (PID=16060) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:26:10,016] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:26:10,017] {logging_mixin.py:115} INFO - [2022-11-02 17:26:10,017] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:26:10,274] {logging_mixin.py:115} INFO - [2022-11-02 17:26:10,274] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:26:10,274] {logging_mixin.py:115} INFO - [2022-11-02 17:26:10,274] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:26:12,158] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:26:12,187] {logging_mixin.py:115} INFO - [2022-11-02 17:26:12,187] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:26:12,200] {logging_mixin.py:115} INFO - [2022-11-02 17:26:12,200] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:26:12,211] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.201 seconds
+[2022-11-02 17:26:54,256] {processor.py:153} INFO - Started process (PID=16170) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:26:54,257] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:26:54,257] {logging_mixin.py:115} INFO - [2022-11-02 17:26:54,257] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:26:54,481] {logging_mixin.py:115} INFO - [2022-11-02 17:26:54,481] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:26:54,481] {logging_mixin.py:115} INFO - [2022-11-02 17:26:54,481] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:26:56,410] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:26:56,420] {logging_mixin.py:115} INFO - [2022-11-02 17:26:56,420] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:26:56,433] {logging_mixin.py:115} INFO - [2022-11-02 17:26:56,433] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:26:56,445] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.195 seconds
+[2022-11-02 17:27:38,604] {processor.py:153} INFO - Started process (PID=16281) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:27:38,605] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:27:38,605] {logging_mixin.py:115} INFO - [2022-11-02 17:27:38,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:27:38,826] {logging_mixin.py:115} INFO - [2022-11-02 17:27:38,825] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:27:38,826] {logging_mixin.py:115} INFO - [2022-11-02 17:27:38,826] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:27:40,747] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:27:40,752] {logging_mixin.py:115} INFO - [2022-11-02 17:27:40,752] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:27:40,765] {logging_mixin.py:115} INFO - [2022-11-02 17:27:40,765] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:27:40,772] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.174 seconds
+[2022-11-02 17:28:24,143] {processor.py:153} INFO - Started process (PID=16393) to work on /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:28:24,144] {processor.py:641} INFO - Processing file /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py for tasks to queue
+[2022-11-02 17:28:24,145] {logging_mixin.py:115} INFO - [2022-11-02 17:28:24,145] {dagbag.py:508} INFO - Filling up the DagBag from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:28:24,380] {logging_mixin.py:115} INFO - [2022-11-02 17:28:24,380] {utils.py:145} INFO - Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2022-11-02 17:28:24,380] {logging_mixin.py:115} INFO - [2022-11-02 17:28:24,380] {utils.py:157} INFO - NumExpr defaulting to 8 threads.
+[2022-11-02 17:28:26,421] {processor.py:651} INFO - DAG(s) dict_keys(['Lead_scoring_training_pipeline']) retrieved from /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py
+[2022-11-02 17:28:26,453] {logging_mixin.py:115} INFO - [2022-11-02 17:28:26,452] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-11-02 17:28:26,467] {logging_mixin.py:115} INFO - [2022-11-02 17:28:26,466] {dag.py:2968} INFO - Setting next_dagrun for Lead_scoring_training_pipeline to 2022-11-01T00:00:00+00:00, run_after=2022-12-01T00:00:00+00:00
+[2022-11-02 17:28:26,482] {processor.py:161} INFO - Processing /home/dags/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py took 2.345 seconds

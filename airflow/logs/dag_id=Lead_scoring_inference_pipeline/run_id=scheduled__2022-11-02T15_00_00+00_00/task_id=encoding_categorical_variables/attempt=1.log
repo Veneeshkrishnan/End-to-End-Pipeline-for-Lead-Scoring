@@ -1,0 +1,33 @@
+[2022-11-02 16:50:32,252] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Lead_scoring_inference_pipeline.encoding_categorical_variables scheduled__2022-11-02T15:00:00+00:00 [queued]>
+[2022-11-02 16:50:32,260] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Lead_scoring_inference_pipeline.encoding_categorical_variables scheduled__2022-11-02T15:00:00+00:00 [queued]>
+[2022-11-02 16:50:32,260] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-02 16:50:32,260] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-11-02 16:50:32,260] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-02 16:50:32,272] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): encoding_categorical_variables> on 2022-11-02 15:00:00+00:00
+[2022-11-02 16:50:32,282] {standard_task_runner.py:52} INFO - Started process 10436 to run task
+[2022-11-02 16:50:32,288] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_scoring_inference_pipeline', 'encoding_categorical_variables', 'scheduled__2022-11-02T15:00:00+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_inference_pipeline/.ipynb_checkpoints/lead_scoring_inference_pipeline-checkpoint.py', '--cfg-path', '/tmp/tmpsgl08uq1', '--error-file', '/tmp/tmp18eui94i']
+[2022-11-02 16:50:32,290] {standard_task_runner.py:80} INFO - Job 38: Subtask encoding_categorical_variables
+[2022-11-02 16:50:32,334] {task_command.py:371} INFO - Running <TaskInstance: Lead_scoring_inference_pipeline.encoding_categorical_variables scheduled__2022-11-02T15:00:00+00:00 [running]> on host a3d1d2a51488
+[2022-11-02 16:50:32,389] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_scoring_inference_pipeline
+AIRFLOW_CTX_TASK_ID=encoding_categorical_variables
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-02T15:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-11-02T15:00:00+00:00
+[2022-11-02 16:50:32,390] {logging_mixin.py:115} INFO - Error while running encode_features : name 'DB_PATH' is not defined
+[2022-11-02 16:50:32,390] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/opt/conda/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/dags/Lead_scoring_inference_pipeline/utils.py", line 99, in encode_features
+    if connection:
+UnboundLocalError: local variable 'connection' referenced before assignment
+[2022-11-02 16:50:32,394] {taskinstance.py:1415} INFO - Marking task as UP_FOR_RETRY. dag_id=Lead_scoring_inference_pipeline, task_id=encoding_categorical_variables, execution_date=20221102T150000, start_date=20221102T165032, end_date=20221102T165032
+[2022-11-02 16:50:32,402] {standard_task_runner.py:92} ERROR - Failed to execute job 38 for task encoding_categorical_variables (local variable 'connection' referenced before assignment; 10436)
+[2022-11-02 16:50:32,417] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-11-02 16:50:32,448] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
